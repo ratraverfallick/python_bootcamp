@@ -12,15 +12,15 @@ If you have questions outside of the session times about the bootcamp - Use Slac
 
 The schedule is as follows:
 
-- Introduction to Data Science and Getting Setup
-- Introduction to Python
-- Working with and Visualizing Data
-- Mapping with Geopandas
-- Data Storytelling
+- [Introduction to Data Science and Getting Setup](intro_ds_hpc_github.md)
+- [Introduction to Python](intro_python_jupyter.ipynb)
+- [Working with and Visualizing Data](visualization_census_parks.ipynb)
+- [Mapping with Geopandas](geopandas_mapping.ipynb)
+- [Data Storytelling](data_storytelling_project.md)
 - Topological Statistics
 - Imputation and Missing Values
 - Research Reproducibility
-- Text Analytics
+- [Text Analytics](text_analytics.ipynb)
 - Topic Modeling
 - Time Series
 - Spatial Analysis

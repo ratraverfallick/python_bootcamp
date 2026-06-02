@@ -15,7 +15,7 @@ Please tell us:
 - Your home institution
 - Your major (or intended major)
 
-If you'd like, feel free to also share:
+If you'd like, feel free to briefly share:
 
 - A research interest
 - A hobby
@@ -346,12 +346,12 @@ By the end of this section you should have:
 
 ---
 
-## Tiny Victory
+## First Test
 
 Create a new notebook and run:
 
 ```python
-print("Hello Data Science!")
+print("Welcome to the bootcamp!")
 ```
 
 Then try:
@@ -676,7 +676,7 @@ By this point you should be able to:
 
 ☐ Create variables
 
-☐ Understand what the kernel does
+☐ Understand what the kernel means
 
 ☐ Restart the kernel
 
@@ -872,7 +872,7 @@ The bootcamp materials live here:
 
 https://github.com/SMUREU/python_bootcamp
 
-Rather than modifying the original repository directly, you will create your own copy.
+Rather than modifying the original repository directly, you will create your own copy to work on.
 
 This process is called a **fork**.
 

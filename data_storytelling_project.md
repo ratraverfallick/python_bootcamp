@@ -1,5 +1,7 @@
 # Data Storytelling, The Pudding, and Your REU Project
 
+ -- Dr. Eric Godat
+
 ## Session Overview
 
 Today has two goals:

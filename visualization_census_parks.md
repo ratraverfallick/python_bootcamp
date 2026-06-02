@@ -1,6 +1,6 @@
 # Python, Data Visualization, and Census Data
 
-By: Dr. Eric Godat
+ -- Dr. Eric Godat
 
 ## Session Goals
 

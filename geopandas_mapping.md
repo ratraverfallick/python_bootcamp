@@ -1,7 +1,7 @@
 # Mapping and GeoPandas
 
-By: Dr. Eric Godat
-
+ -- Dr. Eric Godat
+ 
 So far, we have explored data using tables, filtering, sorting, summary
 statistics, and plots.
 

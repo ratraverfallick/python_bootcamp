@@ -1,6 +1,6 @@
 # Working with Text and Text Analytics
 
-By: Dr. Eric Godat
+ -- Dr. Eric Godat
 
 So far in this bootcamp we have worked with:
 

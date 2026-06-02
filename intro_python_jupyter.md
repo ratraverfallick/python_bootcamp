@@ -1,6 +1,6 @@
 # Introduction to Python and Jupyter
 
-By: Dr. Eric Godat
+ -- Dr. Eric Godat
 
 ## Session Goal
 

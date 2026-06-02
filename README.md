@@ -4,7 +4,7 @@ Welcome to the 2026 edition of the Summer Data Science Bootcamp!
 
 While this bootcamp was designed for our Advancing Data Science REU students, all are welcome to participate and learn.
 
-We'll be covering some practical applications of python as it applies to working with data as well as some related skills.
+We'll be covering some practical applications of Python as it applies to working with data as well as some related skills.
 
 There will also be sessions that cover statistical methods and research methods. Some of these will be in R.
 
@@ -53,13 +53,13 @@ The goal is to experience the full data science workflow from question to presen
 
 ## Computing Environment
 
-All python coding activities will be completed through SMU's High Performance Computing (HPC) environment using M3 WebPortal and JupyterLab.
+All python coding activities will be completed through SMU's High Performance Computing (HPC) environment using the M3 WebPortal and JupyterLab.
 
 Students do not need to install Python locally unless they wish to do so.
 
 During the first session we will cover:
 
-- Logging into M3 WebPortal
+- Logging into the M3 WebPortal -[https://hpc.m3.smu.edu](https://hpc.m3.smu.edu)
 - Launching JupyterLab
 - Navigating notebooks
 - Using GitHub to save and share work
